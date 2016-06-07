@@ -23,17 +23,15 @@ input, select, button, textarea {
   $TYPOGRAPHY
 \*-----------------------------------*/
 h1 {
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-weight: 100;
-    line-height: 1;
-    letter-spacing: -.05em;
+    line-height: 2;
 }
 
 h2 {
-    margin-bottom: .75rem;
     font-weight: 400;
     font-size: 1.5rem;
-    line-height: 1;
+    line-height: 2;
 }
 
 /*-----------------------------------*\
@@ -41,7 +39,11 @@ h2 {
 \*-----------------------------------*/
 body, html, p {
     font-family: 'Droid Arabic Naskh';
-    line-height: 1.9em;
+    line-height: 1.8;
+}
+
+body {
+    margin: auto 12px;
 }
 
 html {
@@ -73,6 +75,10 @@ html {
         vertical-align: middle;
         max-width: 38rem;
     }
+
+    h1 {
+        font-size: 3rem;
+    }
 }
 
 /*-----------------------------------*\
@@ -80,12 +86,11 @@ html {
 \*-----------------------------------*/
 hr {
     border: none;
-    margin-top: -1px;
+    margin: 6px auto;
     height: 1px;
-    background-color: #c0c8c9;
-    background-image: -webkit-linear-gradient(0deg, #fff, #c0c8c9, #fff);
+    background-color: #ccc;
+    background-image: -webkit-linear-gradient(0deg, #fff, #ccc, #fff);
 }
-
 
 a {
     color: inherit;

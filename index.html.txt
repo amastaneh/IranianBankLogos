@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+	<meta charset="utf-8">
+	<meta property="og:site_name" content="GitHub - IranianBankLogos"/>
+	<meta property="og:title" content="لوگوی بانک های ایرانی" />
+	<title>فهرست مناسب سازی شده ی لوگوی بانک های ایرانی</title>
+	<link href="dist/css/ibl.css" rel="stylesheet" media="all">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+</head>
+<body>
+	<h1>درباره IBL</h1>
+	<p>
+		یکی از نیازها متداول در 
+		- برنامه نویسی درگاه های بانکی 
+		- وب سایت های نیازمند به معرفی بانک های ایرانی
+		- نرم افزارهای موبایل نیازمند به آیکون بانک های ایران
+		- برنامه نویسی در حوزه FinTech
+		- تهیه تصاویر یا انیمیشن های مرتبط با بانک ها
+		دسترسی به یکی یا تعدادی از لوگوهای بانک های ایرانی است که علاوه بر کیفیت از لحاظ ارتفاع و عرض و نوشتار یکسان سازی شده باشند.
+	</p>
+</body>
+</html>
+

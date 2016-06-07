@@ -1,7 +1,7 @@
 # Iranian Bank Logos
 [![Build Status](https://travis-ci.org/webdesigniran/IranianBankLogos.svg?branch=master)](https://travis-ci.org/webdesigniran/IranianBankLogos)
 [![Coverage Status](https://coveralls.io/repos/github/webdesigniran/IranianBankLogos/badge.svg?branch=master)](https://coveralls.io/github/webdesigniran/IranianBankLogos?branch=master)
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?maxAge=2592000?style=plastic)]()
+[![Github All Releases](https://img.shields.io/badge/downloads-3k-brightgreen.svg?style=flat)]()
 
 فهرست کاملی از تمامی لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این سند) بر روی سایت بانک مرکزی ایران منتشر شده است.
 

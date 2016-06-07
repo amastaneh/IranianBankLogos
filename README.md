@@ -1,6 +1,7 @@
 # Iranian Bank Logos
 [![Build Status](https://travis-ci.org/webdesigniran/IranianBankLogos.svg?branch=master)](https://travis-ci.org/webdesigniran/IranianBankLogos)
 [![Coverage Status](https://coveralls.io/repos/github/webdesigniran/IranianBankLogos/badge.svg?branch=master)](https://coveralls.io/github/webdesigniran/IranianBankLogos?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/m5fs0b5y0ofvg71f?svg=true)](https://ci.appveyor.com/project/amastaneh/iranianbanklogos)
 [![Github Releases](https://img.shields.io/badge/release-v1.0-blue.svg)]()
 [![Github Download](https://img.shields.io/badge/downloads-3k-brightgreen.svg?style=flat)]()
 

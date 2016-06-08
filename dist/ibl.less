@@ -7,9 +7,11 @@
  */
 
 .ibl-part(@row, @col, @width) {
-    background-position: (-1*@width*@col) px (-1*@width*@row) px;
-    width: @width px;
-    height: @width px;
+    @x: @width*@col*1px;
+    @y: @width*@row*1px;
+    background-position: @x @y;
+    width: @width*1px;
+    height: @width*1px;
 }
 
 .ibl-width(@width) {
@@ -139,3 +141,4 @@
 .ibl-width(64);
 .ibl-width(128);
 .ibl-width(300);
+

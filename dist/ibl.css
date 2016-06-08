@@ -1,547 +1,457 @@
-/*!
+﻿/*!
  * IranianBankLogos (https://github.com/webdesigniran/IranianBankLogos)
  * Version: 1.0
  * Author: Web Design Iran
  * Author URL: http://webdesigniran.com
  * Github: https://github.com/webdesigniran/IranianBankLogos
  */
-
 .ibl64 {
-    background-image: url("ibls64.png");
-    background-repeat: no-repeat;
-    display: inline-block;
+  background-image: url("ibls64.png");
+  background-repeat: no-repeat;
+  display: inline-block;
 }
-
-    .ibl64.ibl-bsi {
-        background-position: 0px 0px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-mellat {
-        background-position: -64px 0px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-tejarat {
-        background-position: -128px 0px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-bmi {
-        background-position: -192px 0px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-sepah {
-        background-position: -256px 0px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-bki {
-        background-position: 0px -64px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-parsian {
-        background-position: -64px -64px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-maskan {
-        background-position: -128px -64px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-rb {
-        background-position: -192px -64px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-en {
-        background-position: -256px -64px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-ansar {
-        background-position: 0px -128px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-bpi {
-        background-position: -64px -128px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-sb {
-        background-position: -128px -128px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-sina {
-        background-position: -192px -128px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-post {
-        background-position: -256px -128px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-ghbi {
-        background-position: 0px -192px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-tt {
-        background-position: -64px -192px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-shahr {
-        background-position: -128px -192px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-ba {
-        background-position: -192px -192px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-sarmayeh {
-        background-position: -256px -192px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-day {
-        background-position: 0px -256px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-hi {
-        background-position: -64px -256px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-iz {
-        background-position: -128px -256px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-kar {
-        background-position: -192px -256px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-tourism {
-        background-position: -256px -256px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-bim {
-        background-position: 0px -320px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-edbi {
-        background-position: -64px -320px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-me {
-        background-position: -128px -320px;
-        width: 64px;
-        height: 64px;
-    }
-
-    .ibl64.ibl-ivbb {
-        background-position: -192px -320px;
-        width: 64px;
-        height: 64px;
-    }
-
+.ibl64.ibl-bsi {
+  background-position: 0px 0px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-mellat {
+  background-position: 64px 0px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-tejarat {
+  background-position: 128px 0px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-bmi {
+  background-position: 192px 0px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-sepah {
+  background-position: 256px 0px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-bki {
+  background-position: 0px 64px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-parsian {
+  background-position: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-maskan {
+  background-position: 128px 64px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-rb {
+  background-position: 192px 64px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-en {
+  background-position: 256px 64px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-ansar {
+  background-position: 0px 128px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-bpi {
+  background-position: 64px 128px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-sb {
+  background-position: 128px 128px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-sina {
+  background-position: 192px 128px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-post {
+  background-position: 256px 128px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-ghbi {
+  background-position: 0px 192px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-tt {
+  background-position: 64px 192px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-shahr {
+  background-position: 128px 192px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-ba {
+  background-position: 192px 192px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-sarmayeh {
+  background-position: 256px 192px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-day {
+  background-position: 0px 256px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-hi {
+  background-position: 64px 256px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-iz {
+  background-position: 128px 256px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-kar {
+  background-position: 192px 256px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-tourism {
+  background-position: 256px 256px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-bim {
+  background-position: 0px 320px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-edbi {
+  background-position: 64px 320px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-me {
+  background-position: 128px 320px;
+  width: 64px;
+  height: 64px;
+}
+.ibl64.ibl-ivbb {
+  background-position: 192px 320px;
+  width: 64px;
+  height: 64px;
+}
 .ibl128 {
-    background-image: url("ibls128.png");
-    background-repeat: no-repeat;
-    display: inline-block;
+  background-image: url("ibls128.png");
+  background-repeat: no-repeat;
+  display: inline-block;
 }
-
-    .ibl128.ibl-bsi {
-        background-position: 0px 0px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-mellat {
-        background-position: -128px 0px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-tejarat {
-        background-position: -256px 0px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-bmi {
-        background-position: -384px 0px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-sepah {
-        background-position: -512px 0px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-bki {
-        background-position: 0px -128px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-parsian {
-        background-position: -128px -128px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-maskan {
-        background-position: -256px -128px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-rb {
-        background-position: -384px -128px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-en {
-        background-position: -512px -128px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-ansar {
-        background-position: 0px -256px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-bpi {
-        background-position: -128px -256px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-sb {
-        background-position: -256px -256px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-sina {
-        background-position: -384px -256px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-post {
-        background-position: -512px -256px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-ghbi {
-        background-position: 0px -384px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-tt {
-        background-position: -128px -384px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-shahr {
-        background-position: -256px -384px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-ba {
-        background-position: -384px -384px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-sarmayeh {
-        background-position: -512px -384px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-day {
-        background-position: 0px -512px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-hi {
-        background-position: -128px -512px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-iz {
-        background-position: -256px -512px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-kar {
-        background-position: -384px -512px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-tourism {
-        background-position: -512px -512px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-bim {
-        background-position: 0px -640px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-edbi {
-        background-position: -128px -640px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-me {
-        background-position: -256px -640px;
-        width: 128px;
-        height: 128px;
-    }
-
-    .ibl128.ibl-ivbb {
-        background-position: -384px -640px;
-        width: 128px;
-        height: 128px;
-    }
-
+.ibl128.ibl-bsi {
+  background-position: 0px 0px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-mellat {
+  background-position: 128px 0px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-tejarat {
+  background-position: 256px 0px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-bmi {
+  background-position: 384px 0px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-sepah {
+  background-position: 512px 0px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-bki {
+  background-position: 0px 128px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-parsian {
+  background-position: 128px 128px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-maskan {
+  background-position: 256px 128px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-rb {
+  background-position: 384px 128px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-en {
+  background-position: 512px 128px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-ansar {
+  background-position: 0px 256px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-bpi {
+  background-position: 128px 256px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-sb {
+  background-position: 256px 256px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-sina {
+  background-position: 384px 256px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-post {
+  background-position: 512px 256px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-ghbi {
+  background-position: 0px 384px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-tt {
+  background-position: 128px 384px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-shahr {
+  background-position: 256px 384px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-ba {
+  background-position: 384px 384px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-sarmayeh {
+  background-position: 512px 384px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-day {
+  background-position: 0px 512px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-hi {
+  background-position: 128px 512px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-iz {
+  background-position: 256px 512px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-kar {
+  background-position: 384px 512px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-tourism {
+  background-position: 512px 512px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-bim {
+  background-position: 0px 640px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-edbi {
+  background-position: 128px 640px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-me {
+  background-position: 256px 640px;
+  width: 128px;
+  height: 128px;
+}
+.ibl128.ibl-ivbb {
+  background-position: 384px 640px;
+  width: 128px;
+  height: 128px;
+}
 .ibl300 {
-    background-image: url("ibls300.png");
-    background-repeat: no-repeat;
-    display: inline-block;
+  background-image: url("ibls300.png");
+  background-repeat: no-repeat;
+  display: inline-block;
 }
-
-    .ibl300.ibl-bsi {
-        background-position: 0px 0px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-mellat {
-        background-position: -300px 0px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-tejarat {
-        background-position: -600px 0px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-bmi {
-        background-position: -900px 0px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-sepah {
-        background-position: -1200px 0px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-bki {
-        background-position: 0px -300px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-parsian {
-        background-position: -300px -300px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-maskan {
-        background-position: -600px -300px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-rb {
-        background-position: -900px -300px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-en {
-        background-position: -1200px -300px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-ansar {
-        background-position: 0px -600px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-bpi {
-        background-position: -300px -600px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-sb {
-        background-position: -600px -600px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-sina {
-        background-position: -900px -600px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-post {
-        background-position: -1200px -600px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-ghbi {
-        background-position: 0px -900px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-tt {
-        background-position: -300px -900px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-shahr {
-        background-position: -600px -900px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-ba {
-        background-position: -900px -900px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-sarmayeh {
-        background-position: -1200px -900px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-day {
-        background-position: 0px -1200px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-hi {
-        background-position: -300px -1200px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-iz {
-        background-position: -600px -1200px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-kar {
-        background-position: -900px -1200px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-tourism {
-        background-position: -1200px -1200px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-bim {
-        background-position: 0px -1500px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-edbi {
-        background-position: -300px -1500px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-me {
-        background-position: -600px -1500px;
-        width: 300px;
-        height: 300px;
-    }
-
-    .ibl300.ibl-ivbb {
-        background-position: -900px -1500px;
-        width: 300px;
-        height: 300px;
-    }
+.ibl300.ibl-bsi {
+  background-position: 0px 0px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-mellat {
+  background-position: 300px 0px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-tejarat {
+  background-position: 600px 0px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-bmi {
+  background-position: 900px 0px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-sepah {
+  background-position: 1200px 0px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-bki {
+  background-position: 0px 300px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-parsian {
+  background-position: 300px 300px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-maskan {
+  background-position: 600px 300px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-rb {
+  background-position: 900px 300px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-en {
+  background-position: 1200px 300px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-ansar {
+  background-position: 0px 600px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-bpi {
+  background-position: 300px 600px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-sb {
+  background-position: 600px 600px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-sina {
+  background-position: 900px 600px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-post {
+  background-position: 1200px 600px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-ghbi {
+  background-position: 0px 900px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-tt {
+  background-position: 300px 900px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-shahr {
+  background-position: 600px 900px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-ba {
+  background-position: 900px 900px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-sarmayeh {
+  background-position: 1200px 900px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-day {
+  background-position: 0px 1200px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-hi {
+  background-position: 300px 1200px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-iz {
+  background-position: 600px 1200px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-kar {
+  background-position: 900px 1200px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-tourism {
+  background-position: 1200px 1200px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-bim {
+  background-position: 0px 1500px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-edbi {
+  background-position: 300px 1500px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-me {
+  background-position: 600px 1500px;
+  width: 300px;
+  height: 300px;
+}
+.ibl300.ibl-ivbb {
+  background-position: 900px 1500px;
+  width: 300px;
+  height: 300px;
+}

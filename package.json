@@ -1,6 +1,13 @@
-{
-	"name": "IranianBankLogos",
-	"version": "1.0.0",
-	"devDependencies": {
-	}
+﻿{
+    "name": "IranianBankLogos",
+    "description": "لوگوب بانک های ایران",
+    "version": "1.0.0",
+    "author": "طراحی وب ایران <info@webdesigniran.com> (http://webdesigniran.com)",
+    "homepage": "http://webdesigniran.github.io/IranianBankLogos/",
+    "main": "ibl.min.css",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webdesigniran/IranianBankLogos.git"
+    },
+    "bugs": "https://github.com/webdesigniran/IranianBankLogos/issues"
 }

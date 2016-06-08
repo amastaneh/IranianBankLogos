@@ -3,7 +3,7 @@
     "description": "لوگوی بانک های ایران",
     "version": "1.0.0",
     "homepage": "https://webdesigniran.github.io/IranianBankLogos/",
-    "main": [ "dist/ibl.css", "dist/ibl.min.css" ],
+    "main": "dist/ibl.css",
     "author": "طراحی وب ایران",
     "license": "UNLICENSED",
     "repository": {

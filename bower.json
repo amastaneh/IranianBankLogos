@@ -1,0 +1,25 @@
+{
+    "name": "IranianBankLogos",
+    "description": "لوگوی بانک های ایران",
+    "version": "1.0.0",
+    "homepage": "https://webdesigniran.github.io/IranianBankLogos/",
+    "main": [ "dist/ibl.css", "dist/ibl.min.css" ],
+    "author": "طراحی وب ایران",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webdesigniran/IranianBankLogos.git"
+    },
+    "ignore": [
+        "**/.*",
+        "*.md",
+        "*.yml",
+        "node_modules/",
+        "bower_components/",
+        "src/",
+        "images/",
+        ".gitignore",
+        ".gitattributes",
+        "package.json"
+    ]
+}

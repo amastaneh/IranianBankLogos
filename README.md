@@ -1,4 +1,6 @@
 # Iranian Bank Logos
+
+[![Join the chat at https://gitter.im/webdesigniran/IranianBankLogos](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/webdesigniran/IranianBankLogos.svg?branch=master)](https://travis-ci.org/webdesigniran/IranianBankLogos)
 [![Coverage Status](https://coveralls.io/repos/github/webdesigniran/IranianBankLogos/badge.svg?branch=master)](https://coveralls.io/github/webdesigniran/IranianBankLogos?branch=master)
 [![Build status](https://ci.appveyor.com/api/projects/status/m5fs0b5y0ofvg71f?svg=true)](https://ci.appveyor.com/project/amastaneh/iranianbanklogos)

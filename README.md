@@ -8,6 +8,51 @@
 
 لطفا در صورت مشاهده مغایرت در رنگ، شکل، فرم یا محتوای لوگوها همین الان از طریق گیت هاب (همین جا) یا سایت طراحی وب ایران ما را مطلع فرمایید.
 
+# نحوه استفاده
+
+### 1. دریافت فایل
+
+&#x202b;ساده ترین روش استفاده از [Bower](http://twitter.github.com/bower) است
+
+```sh
+bower install IranianBankLogos
+```
+
+&#x202b;البته می توانید از npm هم استفاده کنید
+
+```sh
+npm install IranianBankLogos
+```
+
+&#x202b;در غیر این صورت شما می توانید از [سورس کدها](https://github.com/webdesigniran/IranianBankLogos) و  از مسیر `dist/ibl.min.css` فایل استایل را دانلود و در پروژه خود استفاده کنید.
+
+### 2. لینک به استایل
+
+&#x202b;با افزودن لینک این استایل به HTML کار تمام است.
+
+&#x202b;توصیه می شود این لینک را در قسمت `<head>` قرار دهید. 
+
+```html
+<link rel="stylesheet" href="bower_components/IranianBankLogos/dist/ibl.min.css">
+```
+
+### 3. نمونه کد
+
+&#x202b;با مراجعه به [سایت پروژه](https://webdesigniran.github.io/IranianBankLogos/) می توانید بر روی هر لوگو کلیک کنید تا کد `HTML` مربوطه در کلیپ.بورد. کپی شود. 
+
+&#x202b;سپس می توانید این کد را در `HTML` خود `Paste` استفاده کنید
+
+```html
+بانک صادرات <i class="ibl64 ibl-bsi"></i>
+بانک ملت <i class="ibl64 ibl-mellat"></i>
+بانک تجارت <i class="ibl64 ibl-tejarat"></i>
+بانک ملی <i class="ibl64 ibl-bmi"></i>
+بانک سپه <i class="ibl64 ibl-sepah"></i>
+بانک کشاورزی <i class="ibl64 ibl-bki"></i>
+بانک پارسیان <i class="ibl64 ibl-parsian"></i>
+```
+
+
 # امکانات
 - &#x202b;فرمت تصاویر PNG24 بدون شفافیت است
 - &#x202b;از هر لوگو دو نسخه رنگی و خاکستری در پوشه تصاویر موجود است

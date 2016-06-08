@@ -9,7 +9,7 @@
 .ibl64 {
     background-image: url("ibls64.png");
     background-repeat: no-repeat;
-    display: block;
+    display: inline-block;
 }
 
     .ibl64.ibl-bsi {
@@ -189,7 +189,7 @@
 .ibl128 {
     background-image: url("ibls128.png");
     background-repeat: no-repeat;
-    display: block;
+    display: inline-block;
 }
 
     .ibl128.ibl-bsi {
@@ -369,7 +369,7 @@
 .ibl300 {
     background-image: url("ibls300.png");
     background-repeat: no-repeat;
-    display: block;
+    display: inline-block;
 }
 
     .ibl300.ibl-bsi {

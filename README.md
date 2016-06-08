@@ -3,8 +3,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/webdesigniran/IranianBankLogos/badge.svg?branch=master)](https://coveralls.io/github/webdesigniran/IranianBankLogos?branch=master)
 
 [![Gitter](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Github Releases](https://img.shields.io/badge/release-v1.0-blue.svg?style=flat)]()
-[![Github Download](https://img.shields.io/badge/downloads-7k-brightgreen.svg?style=flat)]()
+[![Github Releases](https://img.shields.io/badge/release-v1.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
+[![Github Download](https://img.shields.io/badge/downloads-7k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
 
 فهرست کاملی از تمامی لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این سند) بر روی سایت بانک مرکزی ایران منتشر شده است.
 

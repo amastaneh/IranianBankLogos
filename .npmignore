@@ -1,0 +1,12 @@
+images/
+src/
+npm-debug.log
+.DS_Store
+node_modules/
+bower_components/
+index.html
+.gitignore
+.gitattributes
+bower.json
+compilerconfig.json
+compilerconfig.json.defaults

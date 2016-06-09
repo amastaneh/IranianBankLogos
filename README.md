@@ -1,6 +1,6 @@
 # Iranian Bank Logos
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a4f33ba5527425db81448d96a94e303)](https://www.codacy.com/app/amastaneh/IranianBankLogos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webdesigniran/IranianBankLogos&amp;utm_campaign=Badge_Grade)
 [![Gitter](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a4f33ba5527425db81448d96a94e303)](https://www.codacy.com/app/amastaneh/IranianBankLogos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webdesigniran/IranianBankLogos&amp;utm_campaign=Badge_Grade)
 [![Github Releases](https://img.shields.io/badge/release-v1.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
 [![Github Download](https://img.shields.io/badge/download-7k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
 

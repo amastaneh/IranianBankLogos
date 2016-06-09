@@ -8,20 +8,22 @@
 
 لطفا در صورت مشاهده مغایرت در رنگ، شکل، فرم یا محتوای لوگوها همین الان از طریق گیت هاب (همین جا) یا سایت طراحی وب ایران ما را مطلع فرمایید.
 
+
+
 # نحوه استفاده
 
 ### 1. دریافت فایل
 
-&#x202b;ساده ترین روش استفاده از [Bower](http://twitter.github.com/bower) است
+&#x202b;ساده ترین روش استفاده از [npm](https://www.npmjs.com/package/iranianbanklogos) است
 
 ```sh
-bower install IranianBankLogos
+npm install iranianbanklogos
 ```
 
-&#x202b;البته می توانید از npm هم استفاده کنید
+&#x202b;البته می توانید از [Bower](http://bower.io/) هم استفاده کنید
 
 ```sh
-npm install IranianBankLogos
+bower install iranianbanklogos
 ```
 
 &#x202b;در غیر این صورت شما می توانید از [سورس کدها](https://github.com/webdesigniran/IranianBankLogos) و  از مسیر `dist/ibl.min.css` فایل استایل را دانلود و در پروژه خود استفاده کنید.
@@ -33,7 +35,7 @@ npm install IranianBankLogos
 &#x202b;توصیه می شود این لینک را در قسمت `<head>` قرار دهید. 
 
 ```html
-<link rel="stylesheet" href="bower_components/IranianBankLogos/dist/ibl.min.css">
+<link rel="stylesheet" href="bower_components/iranianbanklogos/dist/ibl.min.css">
 ```
 
 ### 3. نمونه کد
@@ -52,6 +54,20 @@ npm install IranianBankLogos
 بانک پارسیان <i class="ibl64 ibl-parsian"></i>
 ```
 
+&#x202b;هر لوگو در سه سایز 64، 128 و 300 قابل استفاده است.
+    
+&#x202b;برای استفاده از هر سایز کلاس مشخص کننده سایز آن را مطابق نمونه زیر انتخاب کنید
+
+&#x202b;همچنین می توانید با مراجعه به [سایت پروژه](https://webdesigniran.github.io/IranianBankLogos/) بر روی هر لوگو کلیک کنید تا کد `HTML` مربوطه در کلیپ.بورد. کپی شود. 
+
+```html
+بانک مسکن سایز 64 <i class="ibl64 ibl-maskan"></i>
+بانک مسکن سایز 128 <i class="ibl128 ibl-maskan"></i>
+بانک مسکن سایز 300 <i class="ibl300 ibl-maskan"></i>
+```
+
+
+
 
 # امکانات
 - &#x202b;فرمت تصاویر PNG24 بدون شفافیت است
@@ -66,7 +82,9 @@ npm install IranianBankLogos
      width="62%" />
 
 
-## پشتیبانی
+
+
+# پشتیبانی
 لطفا اگر نسخه تصویری بهتری برای یک نمایه / لوگو یافته اید
 یا اگر مشکلی مشاهده کردید
 یا اگر پیشنهادی دارید
@@ -76,7 +94,9 @@ npm install IranianBankLogos
 - &#x202b;یا حداقل یک تلفن یا موبایل بزنید به [طراحی وب ایران](http://webdesigniran.com)
 
 
-## License
+
+
+# License
 
 The project is dedicated to public and is free for all uses, commercial or otherwise.
 Supported by [Web Design Iran](http://webdesigniran.com)

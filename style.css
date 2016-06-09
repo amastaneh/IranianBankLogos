@@ -37,7 +37,7 @@ h2 {
   BODY
 \*-----------------------------------*/
 body, html, p {
-    font-family: 'Droid Arabic Naskh';
+    font-family: 'Droid Arabic Naskh', 'Segoe UI';
     line-height: 1.8;
 }
 
@@ -97,13 +97,14 @@ a {
 }
 
     a.button {
-        background: white;
-        border: 2px solid #333;
-        color: #333;
+        background: #555;
+        border: 2px solid #FFF;
+        color: #FFF;
         padding: 0.6rem 0.8rem;
+        margin: 0 6px;
+        border-radius: 4px;
         font-weight: 700;
         cursor: pointer;
-
         -o-transition: .5s;
         -ms-transition: .5s;
         -moz-transition: .5s;
@@ -112,8 +113,9 @@ a {
     }
 
         a.button:hover {
-            background: #333;
-            color: white;
+            background: #FFF;
+            color: #555;
+            border-color: #555;
         }
 
 

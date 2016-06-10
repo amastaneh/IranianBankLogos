@@ -14,7 +14,13 @@
 
 ### 1. دریافت فایل
 
-&#x202b;ساده ترین روش استفاده از [npm](https://www.npmjs.com/package/iranianbanklogos) است
+&#x202b;ساده ترین روش استفاده از [Nuget](https://www.nuget.org/packages/IranianBankLogos) است
+
+```sh
+Install-Package IranianBankLogos
+```
+
+&#x202b;روش ساده ی دیگر استفاده از [npm](https://www.npmjs.com/package/iranianbanklogos) است
 
 ```sh
 npm install iranianbanklogos

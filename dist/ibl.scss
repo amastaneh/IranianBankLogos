@@ -1,0 +1,29 @@
+﻿/*!
+ * IranianBankLogos (https://github.com/webdesigniran/IranianBankLogos)
+ * Version: 2.0
+ * Author: Web Design Iran
+ * Author URL: http://webdesigniran.com
+ * Github: https://github.com/webdesigniran/IranianBankLogos
+ */
+
+
+$bank-sprite-list: bsi mellat tejarat bmi sepah bki parsian maskan rb en ansar bpi sb sina post ghbi tt shahr ba sarmayeh day hi iz kar tourism bim edbi me ivbb;
+$bank-sprite-col: 5;
+$width-list: 32 64 128 256;
+
+@each $width in $width-list {
+    .ibl#{$width} {
+        background: url("ibls#{$width}.png") no-repeat;
+        display: inline-block;
+        width: $width*1px;
+        height: $width*1px;
+
+        @for $i from 1 through length($bank-sprite-list) {
+            &.ibl-#{nth($bank-sprite-list, $i)} {
+                $row: floor(($i - 1) / $bank-sprite-col);
+                $col: floor(($i - 1) % $bank-sprite-col);
+                background-position: if($col==0, 0, -1px*$width*$col) if($row==0, 0, -1px*$width*$row);
+            }
+        }
+    }
+}

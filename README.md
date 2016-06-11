@@ -1,8 +1,8 @@
 # Iranian Bank Logos
 [![Gitter](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a4f33ba5527425db81448d96a94e303)](https://www.codacy.com/app/amastaneh/IranianBankLogos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webdesigniran/IranianBankLogos&amp;utm_campaign=Badge_Grade)
-[![Github Releases](https://img.shields.io/badge/release-v1.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
-[![Github Download](https://img.shields.io/badge/download-7k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
+[![Github Releases](https://img.shields.io/badge/release-v2.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
+[![Github Download](https://img.shields.io/badge/download-6k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
 
 فهرست کاملی از تمامی لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این سند) بر روی سایت بانک مرکزی ایران منتشر شده است.
 
@@ -68,9 +68,10 @@ bower install iranianbanklogos
 &#x202b;همچنین می توانید با مراجعه به [سایت پروژه](https://webdesigniran.github.io/IranianBankLogos/) بر روی هر لوگو کلیک کنید تا کد `HTML` مربوطه در کلیپ.بورد. کپی شود. 
 
 ```html
+بانک مسکن سایز 32 <i class="ibl32 ibl-maskan"></i>
 بانک مسکن سایز 64 <i class="ibl64 ibl-maskan"></i>
 بانک مسکن سایز 128 <i class="ibl128 ibl-maskan"></i>
-بانک مسکن سایز 300 <i class="ibl300 ibl-maskan"></i>
+بانک مسکن سایز 256 <i class="ibl256 ibl-maskan"></i>
 ```
 
 

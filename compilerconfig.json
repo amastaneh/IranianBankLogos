@@ -2,5 +2,9 @@
   {
     "outputFile": "dist/ibl.css",
     "inputFile": "dist/ibl.less"
+  },
+  {
+    "outputFile": "dist/ibl.css",
+    "inputFile": "dist/ibl.scss"
   }
 ]

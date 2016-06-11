@@ -52,13 +52,13 @@ bower install iranianbanklogos
 &#x202b;سپس می توانید این کد را در `HTML` خود `Paste` استفاده کنید
 
 ```html
-بانک صادرات <i class="ibl64 ibl-bsi"></i>
-بانک ملت <i class="ibl64 ibl-mellat"></i>
-بانک تجارت <i class="ibl64 ibl-tejarat"></i>
-بانک ملی <i class="ibl64 ibl-bmi"></i>
-بانک سپه <i class="ibl64 ibl-sepah"></i>
-بانک کشاورزی <i class="ibl64 ibl-bki"></i>
-بانک پارسیان <i class="ibl64 ibl-parsian"></i>
+<i class="ibl64 ibl-bsi"></i> بانک صادرات
+<i class="ibl64 ibl-mellat"></i> بانک ملت
+<i class="ibl64 ibl-tejarat"></i> بانک تجارت
+<i class="ibl64 ibl-bmi"></i> بانک ملی
+<i class="ibl64 ibl-sepah"></i> بانک سپه
+<i class="ibl64 ibl-bki"></i> بانک کشاورزی
+<i class="ibl64 ibl-parsian"></i> بانک پارسیان
 ```
 
 &#x202b;هر لوگو در سه سایز 64، 128 و 300 قابل استفاده است.

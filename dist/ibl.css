@@ -68,6 +68,12 @@
     background-position: -64px -160px; }
   .ibl32.ibl-ivbb {
     background-position: -96px -160px; }
+  .ibl32.ibl-resalat {
+    background-position: -128px -160px; }
+  .ibl32.ibl-miran {
+    background-position: 0 -192px; }
+  .ibl32.ibl-melal {
+    background-position: -32px -192px; }
 
 .ibl64 {
   background: url("ibls64.png") no-repeat;
@@ -132,6 +138,12 @@
     background-position: -128px -320px; }
   .ibl64.ibl-ivbb {
     background-position: -192px -320px; }
+  .ibl64.ibl-resalat {
+    background-position: -256px -320px; }
+  .ibl64.ibl-miran {
+    background-position: 0 -384px; }
+  .ibl64.ibl-melal {
+    background-position: -64px -384px; }
 
 .ibl128 {
   background: url("ibls128.png") no-repeat;
@@ -196,6 +208,12 @@
     background-position: -256px -640px; }
   .ibl128.ibl-ivbb {
     background-position: -384px -640px; }
+  .ibl128.ibl-resalat {
+    background-position: -512px -640px; }
+  .ibl128.ibl-miran {
+    background-position: 0 -768px; }
+  .ibl128.ibl-melal {
+    background-position: -128px -768px; }
 
 .ibl256 {
   background: url("ibls256.png") no-repeat;
@@ -260,4 +278,9 @@
     background-position: -512px -1280px; }
   .ibl256.ibl-ivbb {
     background-position: -768px -1280px; }
-
+  .ibl256.ibl-resalat {
+    background-position: -1024px -1280px; }
+  .ibl256.ibl-miran {
+    background-position: 0 -1536px; }
+  .ibl256.ibl-melal {
+    background-position: -256px -1536px; }

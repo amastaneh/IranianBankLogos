@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IranianBankLogos/static/css/main.3fdde5e4.css",
+    "main.js": "/IranianBankLogos/static/js/main.deafafc5.js",
+    "static/media/ibls256.png": "/IranianBankLogos/static/media/ibls256.d117717a098979f30238.png",
+    "static/media/ibls128.png": "/IranianBankLogos/static/media/ibls128.a90ff81dd88fe1988d03.png",
+    "static/media/ibls64.png": "/IranianBankLogos/static/media/ibls64.43667fd8c98692a203f0.png",
+    "static/media/ibls32.png": "/IranianBankLogos/static/media/ibls32.03a5f6bb6a93ef9f9276.png",
+    "index.html": "/IranianBankLogos/index.html",
+    "main.3fdde5e4.css.map": "/IranianBankLogos/static/css/main.3fdde5e4.css.map",
+    "main.deafafc5.js.map": "/IranianBankLogos/static/js/main.deafafc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdde5e4.css",
+    "static/js/main.deafafc5.js"
+  ]
+}

@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Vazirmatn");
+
+body {
+	font-family: "Vazirmatn", sans-serif;
+	color: #3d464d;
+}
+
+.btn {
+	border-radius: 3px;
+}
+
+// fs-x: font-size
+@for $i from 7 through 20 {
+	.fs-#{$i} {
+		font-size: (16 - $i) * 0.1rem!important;
+	}
+}
+
+
+// cursor
+$cursorTypes: cursor, alias, all-scroll, auto, ew-resize, nesw-resize, ns-resize, nwse-resize, cell, col-resize, context-menu, copy, crosshair, default, grab, grabbing, help, inherit, move, no-drop, none, not-allowed, pointer, progress, row-resize, text, n-resize, e-resize, s-resize, w-resize, ne-resize, nw-resize, se-resize, sw-resize, vertical-text, wait, zoom-in, zoom-out;
+@each $cursorType in $cursorTypes {
+	.cursor-#{$cursorType} {
+		cursor: $cursorType;
+	}
+}

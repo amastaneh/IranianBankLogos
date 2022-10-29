@@ -1,31 +1,32 @@
 # Iranian Bank Logos
 [![Gitter](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a4f33ba5527425db81448d96a94e303)](https://www.codacy.com/app/amastaneh/IranianBankLogos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webdesigniran/IranianBankLogos&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b6a81d6448c41b3903b220d70df3759)](https://www.codacy.com/gh/amastaneh/IranianBankLogos/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amastaneh/IranianBankLogos&amp;utm_campaign=Badge_Grade)
 [![Github Releases](https://img.shields.io/badge/release-v2.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
-[![Github Download](https://img.shields.io/badge/download-6k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
+[![Github Download](https://img.shields.io/badge/download-260k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
 
-&#x202b;فهرست کاملی از لوگو یا نمایه های بانک های ایران که (تا لحظه انتشار این سند) بر روی سایت بانک مرکزی ایران منتشر شده است.
-
+&#x202b;این کتابخانه شامل فهرست کاملی از لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این نسخه) بر روی سایت بانک مرکزی ایران منتشر شده است. 
 &#x202b;لطفا در صورت مشاهده مغایرت در رنگ، شکل، فرم یا محتوای لوگوها همین جا یا از سایت طراحی وب ایران ما را مطلع فرمایید.
 
-
 🌟 If you ❤️ library, please star it! 🌟
-
 
 # نحوه استفاده
 
 ### 1. دریافت فایل
 
-&#x202b;ساده ترین روش استفاده از [Nuget](https://www.nuget.org/packages/IranianBankLogos) است
-
-```sh
-Install-Package IranianBankLogos
-```
-
-&#x202b;روش ساده ی دیگر استفاده از [npm](https://www.npmjs.com/package/iranianbanklogos) است
+&#x202b;ساده ترین روش، استفاده از [npm](https://www.npmjs.com/package/iranianbanklogos) است
 
 ```sh
 npm install iranianbanklogos
+```
+
+```sh
+yarn add iranianbanklogos
+```
+
+&#x202b;راه دیگر، استفاده از [Nuget](https://www.nuget.org/packages/IranianBankLogos) است
+
+```sh
+Install-Package IranianBankLogos
 ```
 
 &#x202b;البته می توانید از [Bower](http://bower.io/) هم استفاده کنید
@@ -34,13 +35,19 @@ npm install iranianbanklogos
 bower install iranianbanklogos
 ```
 
-&#x202b;در غیر این صورت شما می توانید از [سورس کدها](https://github.com/webdesigniran/IranianBankLogos) و  از مسیر `dist/ibl.min.css` فایل استایل را دانلود و در پروژه خود استفاده کنید.
+&#x202b;در غیر این صورت شما می توانید از مسیر `dist/ibl.min.css` فایل استایل را دانلود و در پروژه خود استفاده کنید.
 
 ### 2. لینک به استایل
 
-&#x202b;با افزودن لینک این استایل به HTML کار تمام است.
+&#x202b;با افزودن لینک این استایل به پروژه یا HTML کار تمام است.
 
-&#x202b;توصیه می شود این لینک را در قسمت `<head>` قرار دهید. 
+&#x202b;در پروژه های مبتنی بر `React` می توانید خط زیر را اضافه کنید:
+
+```javascript
+import "iranianbanklogos/dist/ibl.css";
+```
+
+&#x202b;یا در پروژه های دات نت و مانند آن می توان لینک را در قسمت `<head>` قرار داد:
 
 ```html
 <link rel="stylesheet" href="bower_components/iranianbanklogos/dist/ibl.min.css">
@@ -63,7 +70,7 @@ bower install iranianbanklogos
 ```
 
 &#x202b;هر لوگو در چهار سایز 32، 64، 128 و 256 قابل استفاده است.
-    
+
 &#x202b;برای استفاده از هر سایز کلاس مشخص کننده سایز آن را مطابق نمونه زیر انتخاب کنید
 
 &#x202b;همچنین می توانید با مراجعه به [سایت پروژه](https://webdesigniran.github.io/IranianBankLogos/) بر روی هر لوگو کلیک کنید تا کد `HTML` مربوطه در کلیپ.بورد. کپی شود. 
@@ -74,9 +81,6 @@ bower install iranianbanklogos
 بانک مسکن سایز 128 <i class="ibl128 ibl-maskan"></i>
 بانک مسکن سایز 256 <i class="ibl256 ibl-maskan"></i>
 ```
-
-
-
 
 # امکانات
 - &#x202b;فرمت تصاویر PNG24 بدون شفافیت است
@@ -92,6 +96,21 @@ bower install iranianbanklogos
 
 
 
+# نحوه تولید و انتشار
+     - با کمک از فایل فتوشاپ-لوگو یک لوگوی جدید می سازیم
+     - سپس فایل های تصاویر رو به روزآوری می کنیم
+     - بعد فایل فتوشاپ-اسپریت رو به روزآوری می کنیم
+     - با فوتوشاپ چهار اسپریت جدید تولید می کنیم
+     - در فولدر سورس،‌ فایل های اسپریت را به روزآوری می کنیم
+     - در فولدر سورس،‌ فایل استایل را به روزآوری می کنیم
+     - نتایج جدید را دستی از سورس به فولدر مقصد کپی می کنیم
+     - حالا فولدر مقصد را پابلیش می کنیم
+     - برای پابلیش در مسیر اصلی دستورات زیر را استفاده می کنیم
+          - `npm adduser`
+          - `npm whoami`
+          - `npm publish --access public`
+     - بعد از آن نسخه دمو را هم اپدیت و پابلیش می کنیم
+     - نتایج حجم فولدر مقصد را اندازه گیری کرده و ریدمی را آپدیت می کنیم
 
 # پشتیبانی
 لطفا اگر نسخه تصویری بهتری برای یک نمایه / لوگو یافته اید
@@ -101,9 +120,6 @@ bower install iranianbanklogos
 - &#x202b;یا Issue بزنید
 - &#x202b;یا Fork & Pull کنید
 - &#x202b;یا حداقل یک تلفن یا موبایل بزنید به [طراحی وب ایران](http://webdesigniran.com)
-
-
-
 
 # License
 

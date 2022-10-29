@@ -1,31 +1,39 @@
 {
     "name": "iranianbanklogos",
+    "version": "3.1.0",
     "description": "لوگوی بانک های ایران",
-    "version": "2.0.0",
+    "main": "ibl.css",
+    "keywords": [
+        "iran",
+        "iranian",
+        "farsi",
+        "persian",
+        "bank",
+        "logo",
+        "icon",
+        "لوگو",
+        "بانک",
+        "ایران",
+        "ایرانی",
+        "آیکون",
+        "آیکن",
+        "آیکن بانک",
+        "لوگو بانک",
+        "لوگوی بانک"
+    ],
     "author": {
         "name": "webdesigniran",
         "email": "info@webdesigniran.com",
         "url": "http://webdesigniran.com"
     },
-    "homepage": "https://webdesigniran.github.io/IranianBankLogos/",
-    "main": "ibl.min.css",
-    "keywords": [
-        "iran",
-        "iranian",
-        "bank",
-        "logo",
-        "icon",
-        "بانک",
-        "ایران",
-        "ایرانی"
-    ],
-    "license": "UNLICENSED",
+    "license": "ISC",
+    "homepage": "https://amastaneh.github.io/IranianBankLogos/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/webdesigniran/IranianBankLogos.git"
+        "url": "https://github.com/amastaneh/IranianBankLogos.git"
     },
     "bugs": {
-        "url": "https://github.com/webdesigniran/IranianBankLogos/issues",
+        "url": "https://github.com/amastaneh/IranianBankLogos/issues",
         "email": "info@webdesigniran.com"
     },
     "devDependencies": {

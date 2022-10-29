@@ -1,0 +1,47 @@
+{
+  "name": "iranianbanklogos",
+  "description": "لوگوی بانک های ایران",
+  "version": "3.1.0",
+  "private": true,
+  "author": {
+    "name": "webdesigniran",
+    "email": "info@webdesigniran.com",
+    "url": "http://webdesigniran.com"
+  },
+  "license": "ISC",
+  "homepage": "https://webdesigniran.github.io/IranianBankLogos/",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "install": "^0.13.0",
+    "npm": "^8.19.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-github-fork-ribbon": "^0.7.1",
+    "react-scripts": "5.0.1",
+    "sass": "^1.55.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

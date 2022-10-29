@@ -1,10 +1,13 @@
+.github/
+demo/
 images/
+resources/
 src/
-npm-debug.log
-.DS_Store
 node_modules/
 bower_components/
 index.html
+npm-debug.log
+.DS_Store
 .gitignore
 .gitattributes
 bower.json

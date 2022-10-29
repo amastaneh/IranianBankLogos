@@ -1,5 +1,6 @@
 import React from 'react';
 import GitHubForkRibbon from 'react-github-fork-ribbon'
+import packageDemo from './../../package.json'
 import "iranianbanklogos/dist/ibl.css";
 
 
@@ -62,10 +63,13 @@ const PageHome = () => {
             )}
         </main>
 
-        <footer className="row text-center mt-5">
+        <footer className="row text-center mt-5 mb-2 text-muted fs-8">
             <hr />
-            <div className="text-nowrap text-secondary fs-8">
-                میزبانی با ❤ توسط <a className="text-decoration-none text-secondary" href="https://github.com">GitHub</a> و تلاشی از <a className="text-decoration-none text-secondary" href="http://webdesigniran.com">طراحی وب ایران</a>
+            <div className="text-nowrap">
+                تلاشی با ❤ در <a className="text-decoration-none text-secondary" href="http://webdesigniran.com">طراحی وب ایران</a>
+            </div>
+            <div className="text-nowrap">
+                {packageDemo.name} {packageDemo.version}
             </div>
         </footer>
 

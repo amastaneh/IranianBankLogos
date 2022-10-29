@@ -1,8 +1,8 @@
 # Iranian Bank Logos
-[![Gitter](https://badges.gitter.im/webdesigniran/IranianBankLogos.svg)](https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b6a81d6448c41b3903b220d70df3759)](https://www.codacy.com/gh/amastaneh/IranianBankLogos/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amastaneh/IranianBankLogos&amp;utm_campaign=Badge_Grade)
-[![Github Releases](https://img.shields.io/badge/release-v2.0-blue.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
-[![Github Download](https://img.shields.io/badge/download-260k-brightgreen.svg?style=flat)](https://github.com/webdesigniran/IranianBankLogos)
+[![Gitter][gitter-badge]][gitter]
+[![Codacy][codacy-badge]][codacy]
+[![Releases][releases-badge]][releases]
+[![Download][download-badge]][download]
 
 &#x202b;این کتابخانه شامل فهرست کاملی از لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این نسخه) بر روی سایت بانک مرکزی ایران منتشر شده است. 
 &#x202b;لطفا در صورت مشاهده مغایرت در رنگ، شکل، فرم یا محتوای لوگوها همین جا یا از سایت طراحی وب ایران ما را مطلع فرمایید.
@@ -94,8 +94,6 @@ import "iranianbanklogos/dist/ibl.css";
      src="https://cloud.githubusercontent.com/assets/6195199/15833653/01982676-2c3d-11e6-8bbf-00c1310d73de.png" 
      width="62%" />
 
-
-
 # نحوه تولید و انتشار
 - با کمک از فایل فتوشاپ-لوگو یک لوگوی جدید می سازیم
 - سپس فایل های تصاویر رو به روزآوری می کنیم
@@ -107,10 +105,11 @@ import "iranianbanklogos/dist/ibl.css";
 - حالا فولدر مقصد را پابلیش می کنیم
 - نسخه برنامه را افزایش می دهیم
 - برای پابلیش در مسیر اصلی دستورات زیر را استفاده می کنیم
-     - `npm adduser`
-     - `npm whoami`
-     - `npm publish --access public`
-- بعد از آن نسخه دمو را هم اپدیت و پابلیش می کنیم
+     - اولین بار `npm adduser`
+     - اولین بار `npm whoami`
+     - هر بار `npm publish --access public`
+- بعد از آن نسخه دمو را هم اپدیت و از داخل پوشه دمو، پابلیش می کنیم
+     - دستور `yarn deploy`
 - نتایج حجم فولدر مقصد را اندازه گیری کرده و ریدمی را آپدیت می کنیم
 
 # پشتیبانی
@@ -127,7 +126,22 @@ import "iranianbanklogos/dist/ibl.css";
 The project is dedicated to public and is free for all uses, commercial or otherwise.
 Supported by [Web Design Iran](http://webdesigniran.com)
 
-این پروژه تحت حمایت
-[طراحی وب ایران](http://webdesigniran.com)
- بوده و برای استفاده تجاری یا غیر تجاری، رایگان است
+این پروژه تحت حمایت [طراحی وب ایران](http://webdesigniran.com) بوده و برای استفاده تجاری یا غیر تجاری، رایگان است
 
+<!-- Definitions -->
+
+[gitter-badge]: https://badges.gitter.im/webdesigniran/IranianBankLogos.svg
+
+[gitter]: https://gitter.im/webdesigniran/IranianBankLogos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+
+[codacy-badge]: https://app.codacy.com/project/badge/Grade/6b6a81d6448c41b3903b220d70df3759
+
+[codacy]: https://www.codacy.com/gh/amastaneh/IranianBankLogos/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amastaneh/IranianBankLogos&amp;utm_campaign=Badge_Grade
+
+[releases-badge]: https://img.shields.io/badge/release-v2.0-blue.svg?style=flat
+
+[releases]: https://github.com/webdesigniran/IranianBankLogos
+
+[download-badge]: https://img.shields.io/badge/download-260k-brightgreen.svg?style=flat
+
+[download]: https://github.com/webdesigniran/IranianBankLogos

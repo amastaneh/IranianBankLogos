@@ -3,6 +3,11 @@
 [![Codacy][codacy-badge]][codacy]
 [![Releases][releases-badge]][releases]
 [![Download][download-badge]][download]
+![Vulnerabilities][synk]
+
+
+
+
 
 &#x202b;این کتابخانه شامل فهرست کاملی از لوگو یا نمایه های بانک های ایران است که (تا لحظه انتشار این نسخه) بر روی سایت بانک مرکزی ایران منتشر شده است. 
 &#x202b;لطفا در صورت مشاهده مغایرت در رنگ، شکل، فرم یا محتوای لوگوها همین جا یا از سایت طراحی وب ایران ما را مطلع فرمایید.
@@ -146,3 +151,5 @@ Supported by [Web Design Iran](http://webdesigniran.com)
 [download-badge]: https://img.shields.io/badge/download-260k-brightgreen.svg?style=flat
 
 [download]: https://github.com/webdesigniran/IranianBankLogos
+
+[synk]: https://snyk.io/test/github/amastaneh/IranianBankLogos/badge.svg

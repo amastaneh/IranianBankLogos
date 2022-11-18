@@ -87,6 +87,7 @@ import "iranianbanklogos/dist/ibl.css";
 بانک مسکن سایز 256 <i class="ibl256 ibl-maskan"></i>
 ```
 
+
 <div style="text-align: center !important;">
      <a target="_blank" href="https://amastaneh.github.io/IranianBankLogos/" class="">
           <img alt="لوگوی بانک ها و موسسات مالی و اعتباری ایران"
@@ -94,6 +95,7 @@ import "iranianbanklogos/dist/ibl.css";
                width="63%" />
      </a>
 </div>
+
 
 # امکانات
 - &#x202b;فرمت تصاویر PNG24 بدون شفافیت است
@@ -103,11 +105,14 @@ import "iranianbanklogos/dist/ibl.css";
 - &#x202b;لوگوها با حفظ تناسب در محدوده های یکسان (در میان خطوط راهنما) متحد الشکل شده اند
 - &#x202b;منبع فایل های گرافیکی (فتوشاپ فایل ها) منتشر شده است
 
+
 <div style="text-align: center !important;">
      <img alt="نمایی از خطوط راهنما و محدود سازی ابعاد لوگوها"
           src="https://cloud.githubusercontent.com/assets/6195199/15833653/01982676-2c3d-11e6-8bbf-00c1310d73de.png" 
           width="63%" />
 </div>
+
+
 # نحوه تولید و انتشار
 - با کمک از فایل فتوشاپ-لوگو یک لوگوی جدید می سازیم
 - سپس فایل های تصاویر رو به روزآوری می کنیم

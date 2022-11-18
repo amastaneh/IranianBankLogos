@@ -5335,10 +5335,10 @@ ipaddr.js@^2.0.1:
   resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-2.0.1.tgz#eca256a7a877e917aeb368b0a7497ddf42ef81c0"
   integrity sha512-1qTgH9NG+IIJ4yfKs2e6Pp1bZg8wbDbKHT21HrLIeYBTRLgMYKnMTPAuI3Lcs61nfx5h1xlXnbJtH1kX5/d/ng==
 
-iranianbanklogos@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/iranianbanklogos/-/iranianbanklogos-3.1.0.tgz#68cc146100ca7d0b1266d57a0d093f66644da6b6"
-  integrity sha512-Jhdxz7o/mL6pksvBNwVe8yrAfehDYMq7T1ok9ygtLvJcv7HOxuNq+vUJIaElieMH2PxDBtPcujXGJvI6fln5kQ==
+iranianbanklogos@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/iranianbanklogos/-/iranianbanklogos-3.1.2.tgz#264b35ced9b3bfed1e5f2947061719c6f8d3f111"
+  integrity sha512-F6GnrhrC9UO1c4CW8uJloXAkg7pgx/Y8ok6qixb6L0knwIanG6Idudi8/Ebuu3c9PVd59wDTtTZQvtszr+Yyvw==
 
 is-arrayish@^0.2.1:
   version "0.2.1"
@@ -6405,9 +6405,9 @@ loader-runner@^4.2.0:
   integrity sha512-3R/1M+yS3j5ou80Me59j7F9IMs4PXs3VqRrm0TU3AbKPxlmpoY1TNscJV/oGJXo8qCatFGTfDbY6W6ipGOYXfg==
 
 loader-utils@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.3.tgz#d4b15b8504c63d1fc3f2ade52d41bc8459d6ede1"
-  integrity sha512-THWqIsn8QRnvLl0shHYVBN9syumU8pYWEHPTmkiVGd+7K5eFNVSY6AJhRvgGF70gg1Dz+l/k8WicvFCxdEs60A==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.4.tgz#8b5cb38b5c34a9a018ee1fc0e6a066d1dfcc528c"
+  integrity sha512-xXqpXoINfFhgua9xiqD8fPFHgkoq1mmmpE92WlDbm9rNRd/EbRb+Gqf908T2DMfuHjjJlksiK2RbHVOdD/MqSw==
   dependencies:
     big.js "^5.2.2"
     emojis-list "^3.0.0"

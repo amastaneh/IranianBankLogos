@@ -21,7 +21,7 @@
     "react-dom": "^18.2.0",
     "react-github-fork-ribbon": "^0.7.1",
     "react-scripts": "5.0.1",
-    "sass": "^1.55.0"
+    "sass": "^1.56.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -12,7 +12,7 @@
   "homepage": "https://webdesigniran.github.io/IranianBankLogos/",
   "dependencies": {
     "bootstrap": "^5.2.2",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.2.0",
     "install": "^0.13.0",
     "iranianbanklogos": "^3.1.2",
     "npm": "^8.19.3",
